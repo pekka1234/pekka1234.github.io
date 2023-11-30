@@ -1,2 +1,0 @@
-Sisältää oikean tavan aukaista filet index.html tiedoston lopussa
-kansiossa chartfiles on tiedostot
